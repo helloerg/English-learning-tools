@@ -1,0 +1,8 @@
+{
+  "name": "LinguistPro AI - Ebbinghaus English Companion",
+  "description": "An advanced English learning tool for Chinese speakers featuring OCR sentence extraction, AI-guided breakdown, translation comparison, and Ebbinghaus forgetting curve review schedules.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
